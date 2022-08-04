@@ -9,6 +9,10 @@
     "start": "webpack",
     "dev" : "webpack serve --open"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gibstock/react-ts-redux-mui-temp.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
